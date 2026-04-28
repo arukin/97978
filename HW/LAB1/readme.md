@@ -24,8 +24,9 @@ show ip route static
 show ipv6 route static
 ```
 
+###  Пример настройки PBR с IP SLA
 
 
-![](pbr.png)
+![](HW1.png)
 
 
